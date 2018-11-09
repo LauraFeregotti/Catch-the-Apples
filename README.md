@@ -1,3 +1,5 @@
+//*This is a temporary repository till I finish my portafolio*//
+
 # Catch-the-Apples
 
 National University of La Plata, Multimedia Design
